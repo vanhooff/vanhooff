@@ -12,5 +12,5 @@
 
 <a href="https://github.com/sandervanh"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=sandervanh&show_icons=true" align="right" height="150" /></a>
 
-I am a full-stack developer, preferably working with the TALL stack.
+I am a full-stack developer, preferably working with the TALL stack. I currently live in Eindhoven NL with my fiancé wife and 2 kids. I'm a TALL stack web developer, designer and owner of web development company Vuewer. I currently work full-time in and on my own company as lead web developer.
 
