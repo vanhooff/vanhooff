@@ -12,7 +12,10 @@
 
 <a href="https://github.com/sandervanh"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=sandervanh&show_icons=true" align="right" height="150" /></a>
 
-I am a full-stack developer. I currently live in Eindhoven NL with my ~~fiancé~~ wife and 2 kids. As a developer i prefer the TALL stack, i love design and owner of web development company Vuewer. I currently work full-time in and on my own company as lead web developer.
+Webdeveloper, building digital things for the web with nothing but ✨magic. Web agency owner [@Vuewer](https://vuewer.com), located in Eindhoven, NL.
 
-♥️ working with: TailwindCSS, Statamic, AlpineJS and Laravel.
+Creating web applications the modern way, with JavaScript, PHP and awesome frameworks.
 
+I 💜 to work with: TailwindCSS, Statamic, AlpineJS and Laravel.
+
+Want to learn more? [About me →](https://sandervanhooff.com)
