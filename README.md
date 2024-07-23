@@ -2,7 +2,7 @@
 
 ## 💻 Full-Stack Web Developer | 👾 Tech Enthusiast | 👨🏻‍💻 Creator
 
-Born in 1987, I'm a passionate web developer based in Eindhoven, Netherlands. With a keen eye for modern web technologies, I specialize in crafting efficient and elegant web applications.
+I'm a web developer, Born in 1987 and based in Eindhoven, Netherlands. I focus on modern web technologies, making efficient and stylish web applications.
 
 ### 🛠️ Tech Stack
 
