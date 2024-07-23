@@ -14,7 +14,7 @@ I'm a web developer, Born in 1987 and based in Eindhoven, Netherlands. I focus o
 
 ### 🏢 Professional Experience
 
-- 🔥 Founder & Lead Developer at [Vuewer](https://vuewer.com)
+- 🔥 Founder & Lead Developer at [Vuewer](https://vuewer.com/en)
 - 👨‍💻 Freelance Web Developer
 - 🌐 Open Source Contributor
 
