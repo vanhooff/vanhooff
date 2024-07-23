@@ -1,5 +1,44 @@
-## 👋 Hi, I'm [Sander](https://sandervanhooff.com)
+# 👋 Hi, I'm [Sander van Hooff](https://sandervanhooff.com)
 
-Tech enthusiast, web developer and creator at Vuewer. Shipping web applications the modern way, using Laravel, Livewire, Alpine.js and Tailwind CSS also known as the TALL Stack.
+## 💻 Full-Stack Web Developer | 👾 Tech Enthusiast | 👨🏻‍💻 Creator
 
-Want to learn more? [About me →](https://sandervanhooff.com)
+Born in 1987, I'm a passionate web developer based in Eindhoven, Netherlands. With a keen eye for modern web technologies, I specialize in crafting efficient and elegant web applications.
+
+### 🛠️ Tech Stack
+
+- 🌟 TALL Stack Expert: **T**ailwind CSS, **A**lpine.js, **L**aravel, **L**ivewire
+- 💼 Frontend: ```.html```, ```.css```, ```.js``` (Alpine, Vue, React)
+- 🔧 Backend: ```.php``` (Laravel, Wordpress)
+- 🗄️ Databases: ```MySQL```, ```PostgreSQL```
+- 🔀 Version Control: ```Git``` (GitHub)
+- 🚀 DevOps: ```Docker```, ```CI/CD```
+
+### 🏢 Professional Experience
+
+- 🔥 Founder & Lead Developer at [Vuewer](https://vuewer.com)
+- 👨‍💻 Freelance Web Developer
+- 🌐 Open Source Contributor
+
+### 🌟 Highlights
+
+- 🏆 Shipped numerous web applications using future-proof technologies
+- 📚 Continuous learner and technology advocate
+- 🤝 Collaborator and team player
+
+### 🎯 Current Focus
+
+- 🕶️ Builing custom SaaS solutions
+- 📈 Scaling web applications for optimal performance
+- 🔐 Implementing robust security measures in web development
+
+### 📫 Let's Connect!
+
+- 🌐 [Personal Website](https://sandervanhooff.com)
+- ✖️ [X.com)](https://x.com/sandervanhooff)
+- 📧 Email: mail@sandervanhooff.com
+
+### 📊 GitHub Stats
+
+![Sander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanhooff&show_icons=true&theme=radical)
+
+🔍 [About me →](https://sandervanhooff.com)
