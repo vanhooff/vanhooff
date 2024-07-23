@@ -38,6 +38,6 @@ I'm a web developer, Born in 1987 and based in Eindhoven, Netherlands. I focus o
 
 ### 📊 GitHub Stats
 
-![Sander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanhooff&show_icons=true&theme=swift)
+![Sander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanhooff&show_icons=true&theme=graywhite)
 
 🔍 [About me →](https://sandervanhooff.com)
