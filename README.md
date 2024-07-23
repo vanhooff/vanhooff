@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Sander van Hooff](https://sandervanhooff.com)
+# Hi, I'm [Sander van Hooff](https://sandervanhooff.com)
 
 ## 💻 Full-Stack Web Developer | 👾 Tech Enthusiast | 👨🏻‍💻 Creator
 
@@ -7,10 +7,10 @@ Born in 1987, I'm a passionate web developer based in Eindhoven, Netherlands. Wi
 ### 🛠️ Tech Stack
 
 - 🌟 TALL Stack Expert: **T**ailwind CSS, **A**lpine.js, **L**aravel, **L**ivewire
-- 💼 Frontend: ```.html```, ```.css```, ```.js``` (Alpine, Vue, React)
-- 🔧 Backend: ```.php``` (Laravel, Wordpress)
+- 💼 Frontend: ```.html```, ```.css```, ```.js```, ```.blade.php```, ```.vue```, ```.tsx```, ```.jsx```
+- 🔧 Backend: ```.php```, ```node.js```
 - 🗄️ Databases: ```.sql```, ```.sqlite```, ```.sqlite3```, ```.db```
-- 🔀 Version Control: ```.git``` (GitHub)
+- 🔀 Version Control: ```.git```
 
 ### 🏢 Professional Experience
 
