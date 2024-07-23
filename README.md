@@ -9,9 +9,8 @@ Born in 1987, I'm a passionate web developer based in Eindhoven, Netherlands. Wi
 - 🌟 TALL Stack Expert: **T**ailwind CSS, **A**lpine.js, **L**aravel, **L**ivewire
 - 💼 Frontend: ```.html```, ```.css```, ```.js``` (Alpine, Vue, React)
 - 🔧 Backend: ```.php``` (Laravel, Wordpress)
-- 🗄️ Databases: ```MySQL```, ```PostgreSQL```
-- 🔀 Version Control: ```Git``` (GitHub)
-- 🚀 DevOps: ```Docker```, ```CI/CD```
+- 🗄️ Databases: ```.sql```, ```.sqlite```, ```.sqlite3```, ```.db```
+- 🔀 Version Control: ```.git``` (GitHub)
 
 ### 🏢 Professional Experience
 
@@ -21,7 +20,7 @@ Born in 1987, I'm a passionate web developer based in Eindhoven, Netherlands. Wi
 
 ### 🌟 Highlights
 
-- 🏆 Shipped numerous web applications using future-proof technologies
+- 🏆 Shipped numerous web applications and SaaS solutions using future-proof technologies
 - 📚 Continuous learner and technology advocate
 - 🤝 Collaborator and team player
 
