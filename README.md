@@ -1,43 +1,47 @@
-# Hi, I'm [Sander van Hooff](https://sandervanhooff.com)
+# Sander van Hooff
+## Full-Stack Developer & Technology Consultant
 
-## 💻 Full-Stack Web Developer | 👾 Tech Enthusiast | 👨🏻‍💻 Creator
+Based in Eindhoven, Netherlands, I specialize in developing scalable web applications using modern technology stacks. With extensive experience in both frontend and backend development, I focus on creating efficient, secure, and maintainable solutions.
 
-I'm a web developer, Born in 1987 and based in Eindhoven, Netherlands. I focus on modern web technologies, making efficient and stylish web applications.
+## Technical Expertise
 
-### 🛠️ Tech Stack
+**Core Technologies:**
+- TALL Stack (Tailwind CSS, Alpine.js, Laravel, Livewire)
+- Frontend: HTML5, CSS3, JavaScript, PHP Blade, Vue.js, React (TSX/JSX)
+- Backend: PHP, Node.js
+- Database Management: MySQL, SQLite
+- Version Control: Git
 
-- 🌟 TALL Stack Expert: **T**ailwind CSS, **A**lpine.js, **L**aravel, **L**ivewire
-- 💼 Frontend: ```.html```, ```.css```, ```.js```, ```.blade.php```, ```.vue```, ```.tsx```, ```.jsx```
-- 🔧 Backend: ```.php```, ```node.js```
-- 🗄️ Databases: ```.sql```, ```.sqlite```, ```.sqlite3```, ```.db```
-- 🔀 Version Control: ```.git```
+## Professional Experience
 
-### 🏢 Work
+**Founder & Lead Developer** - Vuewer
+- Leading development of innovative web solutions
+- Architecting scalable SaaS platforms
+- Managing technical infrastructure and security implementation
 
-- 🔥 Founder & Lead Developer at [Vuewer](https://vuewer.com/en)
-- 👨‍💻 Freelance Web Developer
-- 🌐 Open Source Contributor
+**Independent Technology Consultant**
+- Providing expert web development services
+- Contributing to open-source projects
+- Delivering custom SaaS solutions
 
-### 🌟 Highlights
+## Current Projects
 
-- 🏆 Shipped numerous web applications and SaaS solutions using future-proof technologies
-- 📚 Continuous learner and technology advocate
-- 🤝 Collaborator and team player
+I'm currently focused on:
+- Developing and scaling self-owned SaaS products
+- Optimizing application performance and user experience
+- Implementing advanced security protocols
+- Contributing to open-source initiatives
 
-### 🎯 Current Focus
+## Professional Development
+- Continuous exploration of emerging technologies
+- Regular contributions to technical communities
+- Focus on scalable architecture and best practices
 
-- 🕶️ Builing custom SaaS solutions
-- 📈 Scaling web applications for optimal performance
-- 🔐 Implementing robust security measures in web development
+## Contact Information
+- Website: [sandervanhooff.com](https://sandervanhooff.com)
+- Twitter: [@sandervanhooff](https://x.com/sandervanhooff)
+- Email: mail@sandervanhooff.com
 
-### 📫 Let's Connect!
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=vanhooff&show_icons=true&theme=graywhite)
 
-- 🌐 [Personal Website](https://sandervanhooff.com)
-- ✖️ [X.com)](https://x.com/sandervanhooff)
-- 📧 Email: mail@sandervanhooff.com
-
-### 📊 GitHub Stats
-
-![Sander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanhooff&show_icons=true&theme=graywhite)
-
-🔍 [About me →](https://sandervanhooff.com)
+More [About me →](https://sandervanhooff.com)
