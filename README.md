@@ -1,7 +1,7 @@
 # Sander van Hooff
 ## Full-Stack Developer & Technology Consultant
 
-Based in Eindhoven, Netherlands, I specialize in developing scalable web applications using modern technology stacks. With extensive experience in both frontend and backend development, I focus on creating efficient, secure, and maintainable solutions.
+Based in Alicante region, Spain, I specialize in developing scalable web applications using modern technology stacks. With extensive experience in both frontend and backend development, I focus on creating efficient, secure, and maintainable solutions.
 
 ## Technical Expertise
 
